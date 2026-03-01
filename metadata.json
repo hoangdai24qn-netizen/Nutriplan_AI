@@ -1,0 +1,5 @@
+{
+  "name": "NutriPlan AI",
+  "description": "AI-powered personalized meal planning based on physical condition and budget.",
+  "requestFramePermissions": []
+}
